@@ -1,0 +1,23 @@
+{
+  "name": "Maurits Deman",
+  "tagline": "Hardware Engineer & Embedded Systems Developer",
+  "email": "maurits.deman@example.com",
+  "bio": "Passionate hardware engineer with expertise in embedded systems, FPGA design, and digital signal processing. I specialize in creating innovative solutions that bridge the gap between hardware and software, with experience in low-level programming and high-performance computing.",
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/mauritsdeman",
+      "icon": "github"
+    },
+    {
+      "name": "LinkedIn", 
+      "url": "https://linkedin.com/in/mauritsdeman",
+      "icon": "linkedin"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:maurits.deman@example.com",
+      "icon": "email"
+    }
+  ]
+}
