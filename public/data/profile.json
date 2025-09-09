@@ -1,3 +1,6 @@
+
+
+
 {
   "name": "Maurits Deman",
   "tagline": "Hardware Engineer & Embedded Systems Developer",
@@ -6,18 +9,19 @@
   "socials": [
     {
       "name": "GitHub",
-      "url": "https://github.com/mauritsdeman",
+      "url": "https://github.com/Maurits123",
       "icon": "github"
     },
     {
       "name": "LinkedIn", 
-      "url": "https://linkedin.com/in/mauritsdeman",
+      "url": "https://www.linkedin.com/in/maurits-deman/",
       "icon": "linkedin"
     },
     {
       "name": "Email",
-      "url": "mailto:maurits.deman@example.com",
+      "url": "mailto:maurits.deman@gmail.com",
       "icon": "email"
-    }
+    } 
   ]
+
 }
