@@ -1,3 +1,9 @@
+
+
+
+
+
+
 // Data fetching utilities for JSON files in public folder
 
 export interface Profile {
@@ -36,7 +42,7 @@ export async function getProfile(): Promise<Profile> {
       throw new Error('Failed to fetch profile data')
     }
     profileCache = await response.json()
-    return profileCache
+    return profileCache!
   } catch (error) {
     console.error('Error fetching profile:', error)
     // Return fallback data
@@ -77,7 +83,7 @@ export async function getProjects(): Promise<Project[]> {
       throw new Error('Failed to fetch projects data')
     }
     projectsCache = await response.json()
-    return projectsCache
+    return projectsCache!
   } catch (error) {
     console.error('Error fetching projects:', error)
     // Return fallback data
@@ -93,4 +99,5 @@ export async function getProjects(): Promise<Project[]> {
     ]
   }
 }
+
 

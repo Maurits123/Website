@@ -38,7 +38,7 @@ export default function Hero() {
             className="space-y-6"
           >
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">
-              Hi, I'm{' '}
+              Hi, I&apos;m{' '}
               <span className="text-blue-600 dark:text-blue-400">
                 {profile.name}
               </span>

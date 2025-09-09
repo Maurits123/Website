@@ -49,7 +49,7 @@ export default function About() {
               {profile.bio}
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              I'm passionate about creating innovative hardware solutions that push the boundaries of embedded systems and digital design. 
+              I&apos;m passionate about creating innovative hardware solutions that push the boundaries of embedded systems and digital design. 
               My expertise spans FPGA development, custom PCB design, and embedded software development, 
               with a strong focus on high-performance computing and real-time signal processing applications.
             </p>

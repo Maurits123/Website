@@ -61,7 +61,7 @@ export default function About() {
               </p>
               
               <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed mb-6">
-                I'm a passionate software engineer with expertise in full-stack development, cloud technologies, 
+                I&apos;m a passionate software engineer with expertise in full-stack development, cloud technologies, 
                 and modern web frameworks. My experience spans from frontend development with React and Vue.js 
                 to backend services using Node.js, Python, and cloud platforms like AWS and Azure.
               </p>
