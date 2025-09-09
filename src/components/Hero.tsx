@@ -14,7 +14,7 @@ export default function Hero() {
 
   if (!profile) {
     return (
-      <section className="section-padding bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800">
+      <section className="section-padding bg-gradient-to-br from-burnt-orange-50 to-orange-100 dark:from-gray-900 dark:to-gray-800">
         <div className="container-max">
           <div className="text-center">
             <div className="animate-pulse">
@@ -39,7 +39,7 @@ export default function Hero() {
           >
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">
               Hi, I&apos;m{' '}
-              <span className="text-blue-600 dark:text-blue-400">
+              <span className="text-burnt-orange-600 dark:text-burnt-orange-400">
                 {profile.name}
               </span>
             </h1>

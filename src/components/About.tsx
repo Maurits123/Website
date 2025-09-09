@@ -77,7 +77,7 @@ export default function About() {
             viewport={{ once: true }}
             className="relative"
           >
-            <div className="aspect-square rounded-2xl bg-gradient-to-br from-blue-500 to-purple-600 p-8 flex items-center justify-center">
+            <div className="aspect-square rounded-2xl bg-gradient-to-br from-burnt-orange-500 to-orange-600 p-8 flex items-center justify-center">
               <div className="text-center text-white">
                 <div className="text-6xl font-bold mb-4">MD</div>
                 <div className="text-xl font-medium">Hardware Engineer</div>
