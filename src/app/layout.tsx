@@ -8,23 +8,23 @@ import ThemeProvider from '@/components/ThemeProvider'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Maurits Deman - Software Engineer',
-  description: 'Full-stack software engineer specializing in React, Node.js, cloud technologies, and modern web development.',
-  keywords: ['Software Engineer', 'Full-Stack', 'React', 'Node.js', 'AWS', 'TypeScript'],
+  title: 'Maurits Deman - Hardware Engineer',
+  description: 'Hardware engineer specializing in embedded systems, FPGA design, and digital signal processing.',
+  keywords: ['Hardware Engineer', 'Embedded Systems', 'FPGA', 'Digital Signal Processing', 'PCB Design', 'Verilog'],
   authors: [{ name: 'Maurits Deman' }],
   creator: 'Maurits Deman',
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: 'https://mauritsdeman.dev',
-    title: 'Maurits Deman - Software Engineer',
-    description: 'Full-stack software engineer specializing in React, Node.js, cloud technologies, and modern web development.',
+    title: 'Maurits Deman - Hardware Engineer',
+    description: 'Hardware engineer specializing in embedded systems, FPGA design, and digital signal processing.',
     siteName: 'Maurits Deman Portfolio',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Maurits Deman - Software Engineer',
-    description: 'Full-stack software engineer specializing in React, Node.js, cloud technologies, and modern web development.',
+    title: 'Maurits Deman - Hardware Engineer',
+    description: 'Hardware engineer specializing in embedded systems, FPGA design, and digital signal processing.',
   },
 }
 
