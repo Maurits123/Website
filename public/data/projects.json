@@ -1,34 +1,18 @@
 [
   {
     "id": 1,
-    "title": "FPGA-Based Digital Signal Processor",
-    "description": "High-performance DSP system implemented on Xilinx FPGA with Verilog/VHDL. Features real-time audio processing, FFT algorithms, and custom IP cores for signal filtering and modulation.",
-    "tags": ["FPGA", "Verilog", "VHDL", "DSP", "Xilinx"],
-    "link": "https://github.com/mauritsdeman/fpga-dsp",
-    "image": "/images/project1.jpg"
+    "title": "Watermelon Lovers 🍉",
+    "description": "Senior design project at UT Austin creating a consumer-friendly tool for evaluating watermelon quality and ripeness using acoustic and visual analysis. Features machine learning algorithms, signal processing, and a Flask-based web interface for user interaction.",
+    "tags": ["Python", "Flask", "Machine Learning", "Signal Processing", "Acoustic Analysis", "Computer Vision"],
+    "link": "https://github.com/spencshis-prog/Watermelon_Lovers_FH10b",
+    "image": "/images/watermelon-project.jpg"
   },
   {
     "id": 2,
-    "title": "Embedded IoT Sensor Network",
-    "description": "Wireless sensor network using ARM Cortex-M microcontrollers with custom PCB design. Implements low-power communication protocols and real-time data acquisition for environmental monitoring.",
-    "tags": ["ARM Cortex-M", "IoT", "PCB Design", "Wireless", "C"],
-    "link": "https://github.com/mauritsdeman/iot-sensor-network",
-    "image": "/images/project2.jpg"
-  },
-  {
-    "id": 3,
-    "title": "High-Speed Data Acquisition System",
-    "description": "Multi-channel ADC system with real-time data processing capabilities. Features custom analog front-end design, high-speed serial interfaces, and FPGA-based data processing pipeline.",
-    "tags": ["ADC", "High-Speed", "Serial Interfaces", "Analog Design", "FPGA"],
-    "link": "https://github.com/mauritsdeman/data-acquisition",
-    "image": "/images/project3.jpg"
-  },
-  {
-    "id": 4,
-    "title": "Custom Microcontroller Board",
-    "description": "Complete microcontroller development board with custom PCB layout, power management, and peripheral interfaces. Includes bootloader, device drivers, and development tools.",
-    "tags": ["PCB Design", "Microcontroller", "Power Management", "Device Drivers", "Embedded C"],
-    "link": "https://github.com/mauritsdeman/custom-mcu-board",
-    "image": "/images/project4.jpg"
+    "title": "Orientalism in Frank Herbert's Dune: A Critical Analysis",
+    "description": "Master's thesis examining Orientalist themes and tropes in Frank Herbert's science fiction novel 'Dune' through the lens of Edward Said's postcolonial theory. Analyzes Herbert's use of Islamic and Arab terminology, desert imagery, and cultural references to construct the Fremen society, while exploring how the author both employs and subverts traditional Orientalist frameworks to critique Western imperialism and technological advancement.",
+    "tags": ["Literature", "Postcolonial Studies", "Orientalism", "Science Fiction", "Cultural Analysis", "Academic Research", "Frank Herbert", "Edward Said"],
+    "link": "/Final Draft.pdf",
+    "image": "/images/thesis-project.jpg"
   }
 ]
