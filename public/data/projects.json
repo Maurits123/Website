@@ -1,14 +1,22 @@
 [
   {
     "id": 1,
-    "title": "FPGA-Based Digital Signal Processor",
-    "description": "High-performance DSP system implemented on Xilinx FPGA with Verilog/VHDL. Features real-time audio processing, FFT algorithms, and custom IP cores for signal filtering and modulation.",
-    "tags": ["FPGA", "Verilog", "VHDL", "DSP", "Xilinx"],
-    "link": "https://github.com/mauritsdeman/fpga-dsp",
-    "image": "/images/project1.jpg"
+    "title": "Watermelon Lovers 🍉",
+    "description": "Senior design project at UT Austin creating a consumer-friendly tool for evaluating watermelon quality and ripeness using acoustic and visual analysis. Features machine learning algorithms, signal processing, and a Flask-based web interface for user interaction.",
+    "tags": ["Python", "Flask", "Machine Learning", "Signal Processing", "Acoustic Analysis", "Computer Vision"],
+    "link": "https://github.com/spencshis-prog/Watermelon_Lovers_FH10b",
+    "image": "/images/watermelon-project.jpg"
   },
   {
     "id": 2,
+    "title": "Orientalism in Frank Herbert's Dune: A Critical Analysis",
+    "description": "Master's thesis examining Orientalist themes and tropes in Frank Herbert's science fiction novel 'Dune' through the lens of Edward Said's postcolonial theory. Analyzes Herbert's use of Islamic and Arab terminology, desert imagery, and cultural references to construct the Fremen society, while exploring how the author both employs and subverts traditional Orientalist frameworks to critique Western imperialism and technological advancement.",
+    "tags": ["Literature", "Postcolonial Studies", "Orientalism", "Science Fiction", "Cultural Analysis", "Academic Research", "Frank Herbert", "Edward Said"],
+    "link": "/Final Draft.pdf",
+    "image": "/images/thesis-project.jpg"
+  },
+  {
+    "id": 3,
     "title": "Embedded IoT Sensor Network",
     "description": "Wireless sensor network using ARM Cortex-M microcontrollers with custom PCB design. Implements low-power communication protocols and real-time data acquisition for environmental monitoring.",
     "tags": ["ARM Cortex-M", "IoT", "PCB Design", "Wireless", "C"],
@@ -16,7 +24,7 @@
     "image": "/images/project2.jpg"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "High-Speed Data Acquisition System",
     "description": "Multi-channel ADC system with real-time data processing capabilities. Features custom analog front-end design, high-speed serial interfaces, and FPGA-based data processing pipeline.",
     "tags": ["ADC", "High-Speed", "Serial Interfaces", "Analog Design", "FPGA"],
@@ -24,7 +32,7 @@
     "image": "/images/project3.jpg"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Custom Microcontroller Board",
     "description": "Complete microcontroller development board with custom PCB layout, power management, and peripheral interfaces. Includes bootloader, device drivers, and development tools.",
     "tags": ["PCB Design", "Microcontroller", "Power Management", "Device Drivers", "Embedded C"],
@@ -32,7 +40,7 @@
     "image": "/images/project4.jpg"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "AP College Football Poll Simulator",
     "description": "Comprehensive web application that simulates the AP College Football Poll, allowing users to submit their top 25 rankings and view compiled results. Features interactive poll submission, real-time compilation, team validation, Excel upload support, and poll history tracking.",
     "tags": ["JavaScript", "Python", "Flask", "Web Development", "Data Visualization", "Excel Processing"],
@@ -40,7 +48,7 @@
     "image": "/images/project5.jpg"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Algorithms & Data Structures Projects",
     "description": "Advanced algorithms coursework including Stable Matching Problem implementation using Gale-Shapley algorithm and graph algorithms for minimum spanning trees. Features comprehensive testing with multiple input sizes and performance analysis.",
     "tags": ["Java", "Algorithms", "Data Structures", "Graph Theory", "Stable Matching", "Gale-Shapley"],
@@ -48,7 +56,7 @@
     "image": "/images/project6.jpg"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "MATLAB Signal Processing Projects",
     "description": "Electromagnetic signal analysis and processing projects using MATLAB. Includes transmission line analysis, return loss calculations, and signal propagation studies with comprehensive visualization and mathematical modeling.",
     "tags": ["MATLAB", "Signal Processing", "Electromagnetics", "Transmission Lines", "Data Visualization"],
@@ -56,7 +64,7 @@
     "image": "/images/project7.jpg"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "LC-3 Assembly Language Programming",
     "description": "Low-level assembly programming projects for LC-3 microprocessor architecture. Includes student record sorting algorithms, memory management, string manipulation, and lookup operations with comprehensive testing and debugging.",
     "tags": ["Assembly Language", "LC-3", "Microprocessors", "Low-Level Programming", "Memory Management"],
@@ -64,7 +72,7 @@
     "image": "/images/project8.jpg"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Embedded Systems C Programming",
     "description": "Advanced embedded systems projects using C programming for TM4C123 microcontrollers. Includes LCD display control with SPI communication, digital piano with DAC output, traffic light controller with finite state machines, and real-time sound generation with SysTick interrupts.",
     "tags": ["C Programming", "Embedded Systems", "TM4C123", "SPI Communication", "DAC", "Finite State Machines", "Real-time Systems"],
