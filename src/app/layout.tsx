@@ -9,8 +9,8 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Maurits Deman - Hardware Engineer',
-  description: 'Hardware engineer specializing in embedded systems, FPGA design, and digital signal processing.',
-  keywords: ['Hardware Engineer', 'Embedded Systems', 'FPGA', 'Digital Signal Processing', 'PCB Design', 'Verilog'],
+  description: 'Hardware engineer currently in ATE Test Engineering at NXP Semiconductors.',
+  keywords: ['Hardware Engineer', ' ATE Test Engineering', 'FPGA', 'Digital Signal Processing', 'PCB Design', 'Verilog'],
   authors: [{ name: 'Maurits Deman' }],
   creator: 'Maurits Deman',
   openGraph: {

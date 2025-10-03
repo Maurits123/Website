@@ -105,8 +105,7 @@ export default function Contact() {
               Get In Touch
             </h1>
             <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-              Have a project in mind or want to collaborate? I&apos;d love to hear from you. 
-              Send me a message and I&apos;ll get back to you as soon as possible.
+              Please fill out the following form to contact me, if you want to get in touch.
             </p>
           </div>
           
@@ -155,7 +154,7 @@ export default function Contact() {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      github.com/alexjohnson
+                      github.com/Maurits123
                     </a>
                   </div>
                 </div>
@@ -174,7 +173,7 @@ export default function Contact() {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      linkedin.com/in/alexjohnson
+                      linkedin.com/in/maurits-deman/
                     </a>
                   </div>
                 </div>

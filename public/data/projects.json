@@ -30,5 +30,45 @@
     "tags": ["PCB Design", "Microcontroller", "Power Management", "Device Drivers", "Embedded C"],
     "link": "https://github.com/mauritsdeman/custom-mcu-board",
     "image": "/images/project4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "AP College Football Poll Simulator",
+    "description": "Comprehensive web application that simulates the AP College Football Poll, allowing users to submit their top 25 rankings and view compiled results. Features interactive poll submission, real-time compilation, team validation, Excel upload support, and poll history tracking.",
+    "tags": ["JavaScript", "Python", "Flask", "Web Development", "Data Visualization", "Excel Processing"],
+    "link": "https://github.com/Maurits123/JS-Poll",
+    "image": "/images/project5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Algorithms & Data Structures Projects",
+    "description": "Advanced algorithms coursework including Stable Matching Problem implementation using Gale-Shapley algorithm and graph algorithms for minimum spanning trees. Features comprehensive testing with multiple input sizes and performance analysis.",
+    "tags": ["Java", "Algorithms", "Data Structures", "Graph Theory", "Stable Matching", "Gale-Shapley"],
+    "link": "",
+    "image": "/images/project6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "MATLAB Signal Processing Projects",
+    "description": "Electromagnetic signal analysis and processing projects using MATLAB. Includes transmission line analysis, return loss calculations, and signal propagation studies with comprehensive visualization and mathematical modeling.",
+    "tags": ["MATLAB", "Signal Processing", "Electromagnetics", "Transmission Lines", "Data Visualization"],
+    "link": "",
+    "image": "/images/project7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "LC-3 Assembly Language Programming",
+    "description": "Low-level assembly programming projects for LC-3 microprocessor architecture. Includes student record sorting algorithms, memory management, string manipulation, and lookup operations with comprehensive testing and debugging.",
+    "tags": ["Assembly Language", "LC-3", "Microprocessors", "Low-Level Programming", "Memory Management"],
+    "link": "",
+    "image": "/images/project8.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Embedded Systems C Programming",
+    "description": "Advanced embedded systems projects using C programming for TM4C123 microcontrollers. Includes LCD display control with SPI communication, digital piano with DAC output, traffic light controller with finite state machines, and real-time sound generation with SysTick interrupts.",
+    "tags": ["C Programming", "Embedded Systems", "TM4C123", "SPI Communication", "DAC", "Finite State Machines", "Real-time Systems"],
+    "link": "",
+    "image": "/images/project9.jpg"
   }
 ]

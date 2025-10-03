@@ -113,7 +113,7 @@ export default function About() {
               className="text-center"
             >
               <a
-                href="/resume.pdf"
+                href="/Maurits Deman Resume.pdf"
                 download
                 className="btn-primary text-lg px-8 py-3 inline-block"
               >

@@ -54,7 +54,7 @@ export default function Projects() {
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
             A comprehensive collection of my work in electrical and computer engineering, 
-            spanning FPGA development, embedded systems, and digital design.
+            and creative work including my thesis.
           </p>
         </motion.div>
         
